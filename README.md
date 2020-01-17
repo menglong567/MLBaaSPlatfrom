@@ -19,10 +19,12 @@ MultiChainJavaAPI
 <https://github.com/menglong567/MultiChainJavaAPI>
 
 Besides the above projects you also need to be familiar with multichain which is an opensource blockchain(It also provides commercial version starting from 2.x version) <https://www.multichain.com/>
+
+Current the whole system is still in draft status and front-end console will be added later
 ```
 
 ### Whole Picture
-> Here i'm giving the whole picture of this simple project as below 
+> Here i'm giving the whole picture of this simple project as below
 >
 ###Simple Explanation
 > -
