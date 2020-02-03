@@ -25,6 +25,10 @@ Current the whole BaaS system is still in developing status and for front-end se
 based on the api from MultichainClient project and KubernetesClient using whatever frameworks you like
 
 ```
+### Purpose of the BaaS System
+Without BaaS system there're much more details you need to consider if you want to deploy blockchain networks to docker or even kubernetes for any blockchain product.
+
+This simple platform provides the ability to deploy blockchain network to kubernetes for multichain and corda for current and maybe other blockchain products in the future
 
 ### Architecture
 > Here i'm giving the whole picture of this simple project as below
