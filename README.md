@@ -24,13 +24,10 @@ Current the whole system is still in draft status and for front-end server you c
 project and KubernetesClient
 ```
 
-### Whole Picture
+### Architecture
 > Here i'm giving the whole picture of this simple project as below
->
-###Simple Explanation
-> -
-> -
-> -
-> -
+
+![avatar](img/arch.png)
+
 ### Support or Contact
 > If you have question please contact me via menglong567@aliyun.com
