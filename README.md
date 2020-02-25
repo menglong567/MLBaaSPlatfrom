@@ -30,6 +30,7 @@ Besides the above projects you also need to be familiar with multichain which is
 Current the whole BaaS system is still in developing status and for front-end server you can build on your own 
 based on the api from MultichainClient project and KubernetesClient using whatever frameworks you like
 
+For helm chart please refer to <https://github.com/menglong567/MLBaaSHelmChart>
 ```
 ### Purpose of the BaaS System
 Without BaaS system there're much more details you need to consider if you want to deploy blockchain networks to docker or even kubernetes for any blockchain product.
