@@ -49,5 +49,8 @@ This simple platform provides the ability to deploy blockchain network to kubern
 
 ![avatar](img/arch.png)
 
+### How to get started
+> Please refer to <https://github.com/menglong567/BaasFrontConsole>
+
 ### Support or Contact
 > If you have question please contact me via menglong567@aliyun.com
