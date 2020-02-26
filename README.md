@@ -24,6 +24,9 @@ KubernetesClient
 MultiChainJavaAPI
 <https://github.com/menglong567/MultiChainJavaAPI>
 
+HelmChart
+<https://github.com/menglong567/MLBaaSHelmChart>
+
 Web-console
 <https://github.com/menglong567/BaasFrontConsole>
 
