@@ -28,7 +28,7 @@ Besides the above projects you also need to be familiar with multichain which is
 (It also provides commercial version starting from 2.x version) <https://www.multichain.com/> and corda 
 
 Current the whole BaaS system is still in developing status and for front-end server you can build on your own 
-based on the api from MultichainClient project and KubernetesClient using whatever frameworks you like
+based on the api from MultichainClient project and KubernetesClient using whatever frameworks you like or you can use the testing web console I developed from <https://github.com/menglong567/BaasFrontConsole>
 
 For helm chart please refer to <https://github.com/menglong567/MLBaaSHelmChart>
 ```
