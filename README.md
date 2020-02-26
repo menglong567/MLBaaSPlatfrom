@@ -24,6 +24,9 @@ KubernetesClient
 MultiChainJavaAPI
 <https://github.com/menglong567/MultiChainJavaAPI>
 
+Web-console
+<https://github.com/menglong567/BaasFrontConsole>
+
 Besides the above projects you also need to be familiar with multichain which is an opensource blockchain
 (It also provides commercial version starting from 2.x version) <https://www.multichain.com/> and corda 
 
