@@ -49,7 +49,7 @@ This simple platform provides the ability to deploy blockchain network to kubern
 # Architecture
 > Here i'm giving the whole picture of this simple project as below
 
-![avatar](img/arch.png)
+![avatar](img/baas.png)
 
 # How to get started
 > Please refer to <https://github.com/menglong567/BaasFrontConsole>
